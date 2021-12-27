@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AlexPpv. I'm a mechanical engineer who spends his free time learning about computer science and data science.
+- 👋 Hi! I'm an aspiring data science professional coming into data science from mechanical engineering background. My path in data science initially started as a hobby driven by my passion for computer science, data, math, and AI. As of December 2021, my training includes, but not limited to, certificates in Machine Learning course and Deep Learning Specialization, and self-taught proficiency in Python and Linux. I'm looking forward to building my GitHub portfolio, joining competitions, collaborating with the community, and entering the industry.
 - 👀 I’m interested in machine learning, computer vision, and any other automation/data manipulation applications.
-- 🌱 I’m currently learning Python, Tensorflow, C#, as well as getting grasp of fundamental CS domains like algorithms and data structures.
 - 📫 How to reach me: Reddit u/Dystopia0range
 
 <!---
